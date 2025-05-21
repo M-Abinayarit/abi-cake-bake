@@ -12,11 +12,14 @@
   color: yellow;
 }
 
+/* Use CSS Grid for 2 cards per row on desktop */
 .cakeWrapper {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 1.2rem;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  justify-items: center;
+  width: 70%;
+  margin: auto;
 }
 
 .cakeCard {
@@ -43,6 +46,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+
   overflow: hidden;
 }
 
@@ -99,6 +103,10 @@
 
 /* Responsive */
 @media (max-width: 900px) {
+  .cakeWrapper {
+    grid-template-columns: 1fr;
+    width: 90%;
+  }
   .cakeCard {
     max-width: 95vw;
   }
@@ -107,7 +115,6 @@
 @media (max-width: 600px) {
   .cakeContainer {
     padding: 1.5rem 1rem;
-    /* padding: 24px; */
   }
   .cakeHeading {
     font-size: 1.1rem;
