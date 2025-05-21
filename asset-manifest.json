@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/abi-cake-bake/static/css/main.61770e61.css",
+    "main.css": "/abi-cake-bake/static/css/main.59a92872.css",
     "main.js": "/abi-cake-bake/static/js/main.78419337.js",
     "static/js/453.fd8e5012.chunk.js": "/abi-cake-bake/static/js/453.fd8e5012.chunk.js",
     "static/media/chef1.jpg": "/abi-cake-bake/static/media/chef1.019349fc9e547298380e.jpg",
@@ -17,12 +17,12 @@
     "static/media/cake6.jpg": "/abi-cake-bake/static/media/cake6.069b78967ea400b0cecd.jpg",
     "static/media/cake3.jpg": "/abi-cake-bake/static/media/cake3.119fadbbb1df56c070c8.jpg",
     "index.html": "/abi-cake-bake/index.html",
-    "main.61770e61.css.map": "/abi-cake-bake/static/css/main.61770e61.css.map",
+    "main.59a92872.css.map": "/abi-cake-bake/static/css/main.59a92872.css.map",
     "main.78419337.js.map": "/abi-cake-bake/static/js/main.78419337.js.map",
     "453.fd8e5012.chunk.js.map": "/abi-cake-bake/static/js/453.fd8e5012.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.61770e61.css",
+    "static/css/main.59a92872.css",
     "static/js/main.78419337.js"
   ]
 }
