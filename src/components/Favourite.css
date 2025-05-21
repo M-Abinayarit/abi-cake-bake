@@ -1,0 +1,77 @@
+.favContainer {
+  max-width: 700px;
+  margin: 3rem auto;
+  color: yellow;
+  background-color: #1e1e1e;
+  text-align: center;
+  border-radius: 10px;
+  padding: 2rem;
+}
+
+.favContainer h2 {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+}
+
+.slider {
+  position: relative;
+}
+
+.slide {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.favImage {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  max-height: 220px;
+  object-fit: contain;
+  border-radius: 10px 10px 0 0;
+  box-shadow: 5px 3px #cea903;
+  transition: transform 0.3s ease;
+}
+
+.favImage:hover {
+  cursor: pointer;
+  transform: scale(1.05);
+}
+
+.textContent {
+  background-color: #1e1e1e;
+  padding: 1.5rem 2rem 2rem;
+  max-width: 320px;
+  border-radius: 0 0 10px 10px;
+  text-align: center;
+  margin-top: 0;
+}
+
+.textContent p {
+  font-size: 1rem;
+  margin: 0 0 1.5rem 0;
+  color: #fff;
+}
+
+.btnGroup {
+  display: flex;
+  justify-content: center;
+  margin-top: 1.5rem;
+}
+
+.favBtn {
+  background: #f76d28;
+  color: #fff;
+  padding: 12px 32px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out, background 0.2s ease-in-out;
+}
+
+.favBtn:hover {
+  transform: scale(1.1);
+  background: #5203c3;
+}
