@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/abi-cake-bake/static/css/main.3c986177.css",
+    "main.js": "/abi-cake-bake/static/js/main.9a151e44.js",
+    "static/js/453.fd8e5012.chunk.js": "/abi-cake-bake/static/js/453.fd8e5012.chunk.js",
+    "static/media/chef1.jpg": "/abi-cake-bake/static/media/chef1.019349fc9e547298380e.jpg",
+    "static/media/founder.jpg": "/abi-cake-bake/static/media/founder.874f03ee56c722569c97.jpg",
+    "static/media/chef2.jpg": "/abi-cake-bake/static/media/chef2.2c63e71231f66c2be893.jpg",
+    "static/media/restaurant.jpg": "/abi-cake-bake/static/media/restaurant.e0b5e42b6b5f3f368101.jpg",
+    "static/media/favourite.jpg": "/abi-cake-bake/static/media/favourite.aa8b191baa04f6c46bb1.jpg",
+    "static/media/kitchen.jpg": "/abi-cake-bake/static/media/kitchen.69fe3639bab0839eede5.jpg",
+    "static/media/cake1.jpg": "/abi-cake-bake/static/media/cake1.f5d6dc05feb15e90df07.jpg",
+    "static/media/cake2.jpg": "/abi-cake-bake/static/media/cake2.565145a2bb59573b8689.jpg",
+    "static/media/Favourite2.jpg": "/abi-cake-bake/static/media/Favourite2.afe3d421cda612686c0b.jpg",
+    "static/media/cake5.jpg": "/abi-cake-bake/static/media/cake5.da52d24c727c1e3ae492.jpg",
+    "static/media/cake4.jpg": "/abi-cake-bake/static/media/cake4.145adac62dd2f69c3cb5.jpg",
+    "static/media/cake6.jpg": "/abi-cake-bake/static/media/cake6.069b78967ea400b0cecd.jpg",
+    "static/media/cake3.jpg": "/abi-cake-bake/static/media/cake3.119fadbbb1df56c070c8.jpg",
+    "index.html": "/abi-cake-bake/index.html",
+    "main.3c986177.css.map": "/abi-cake-bake/static/css/main.3c986177.css.map",
+    "main.9a151e44.js.map": "/abi-cake-bake/static/js/main.9a151e44.js.map",
+    "453.fd8e5012.chunk.js.map": "/abi-cake-bake/static/js/453.fd8e5012.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c986177.css",
+    "static/js/main.9a151e44.js"
+  ]
+}
