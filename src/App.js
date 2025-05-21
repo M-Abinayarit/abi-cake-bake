@@ -13,6 +13,7 @@ function App() {
   return (
     <Router>
       <Hero />
+
       <Cakes id="menu" />
       <Favorite id="favorite" />
       <Chefs id="staff" />

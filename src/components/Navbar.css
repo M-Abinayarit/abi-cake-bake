@@ -26,9 +26,7 @@
 }
 @media screen and (max-width: 530px) {
   .navlink {
-    position: absolute;
-    top: 10px;
-    left: 25px;
+    font-size: 1.5rem;
   }
   .desktop {
     display: none;

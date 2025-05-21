@@ -8,7 +8,7 @@ const Sidebar = ({ toggle, show }) => {
     if (element) {
       element.scrollIntoView({ behavior: "smooth" });
     }
-    toggle(); // close sidebar after navigating
+    toggle(); // Close sidebar after navigation
   };
 
   return (
